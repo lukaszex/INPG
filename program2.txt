@@ -1,6 +1,6 @@
 #include <iostream>
 
-class myClass xyz
+class myClass ole
 {
 public:
  myClass(int);
